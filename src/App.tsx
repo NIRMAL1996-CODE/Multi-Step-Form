@@ -1,9 +1,8 @@
-import { Button } from "@/components/ui/button"
+import Multistepform from "./components/multistepform"
 const App = () => {
   return (
     <div>
-    <Button >Click me</Button>
-    <Button variant="outline">Button</Button>
+   <Multistepform/>
     </div>
   )
 }
